@@ -1,0 +1,7 @@
+2025-03-10 09:50:53.649 | WARNING  | __main__:main:19 - Processing your request...
+2025-03-10 09:50:53.651 | INFO     | app.agent.base:run:137 - Executing step 1/30
+2025-03-10 09:50:54.425 | ERROR    | app.llm:ask_tool:256 - Authentication failed. Check API key.
+2025-03-10 09:50:55.756 | ERROR    | app.llm:ask_tool:256 - Authentication failed. Check API key.
+2025-03-10 09:50:57.305 | ERROR    | app.llm:ask_tool:256 - Authentication failed. Check API key.
+2025-03-10 09:51:01.091 | ERROR    | app.llm:ask_tool:256 - Authentication failed. Check API key.
+2025-03-10 09:51:09.206 | ERROR    | app.llm:ask_tool:256 - Authentication failed. Check API key.

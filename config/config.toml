@@ -1,0 +1,13 @@
+# Global LLM configuration
+[llm]
+model = "qwen/qwq-32b:free"
+base_url = "https://openrouter.ai/api/v1"
+api_key = "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"
+max_tokens = 130000
+temperature = 1
+
+# Optional configuration for specific LLM models
+[llm.vision]
+model = "deepseek/deepseek-chat:free"
+base_url = "https://openrouter.ai/api/v1"
+api_key = "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"
